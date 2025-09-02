@@ -10,6 +10,7 @@ Here are some of the projects I've completed over the past few years!
 
 ## 2025
 ### [Stock Portfolio Optimization](https://github.com/medhanshsankaran/Stock-Portfolio-Optimization)
+### [AAPL Stock Price Prediction](https://github.com/medhanshsankaran/AAPL-Stock-Prediction)
 
 ## 2024
 
