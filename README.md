@@ -1,7 +1,6 @@
-## Hi there 👋 I'm Medhansh, a Data Science & Business Analytics major at the University of Arkansas. Feel free to check out my projects!
+## Hi there 👋 I'm Medhansh, a [Data Science & Business Analytics major at the University of Arkansas](linkedin.com/in/medhansh-sankaran/). Feel free to check out my projects!
 
 🔭 I’m currently working on AI & ML implementations for network optimization in large-scale infrastructures; details to come soon!
-
 
 🌱 I’m currently learning about machine learning algorithms for data science purposes! Take a look at my stock portfolio optimization project for a better idea of the work I've done.
 
