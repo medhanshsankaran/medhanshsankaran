@@ -7,7 +7,7 @@
 📫 You can reach me at medhanshsankaran@gmail.com. Send me an email and I'll get back to you as soon as I can!
 
 ## 2025
-### [Stock Portfolio Optimization]()
+### [Stock Portfolio Optimization](https://github.com/medhanshsankaran/Stock-Portfolio-Optimization)
 
 
 <!--
