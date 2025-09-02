@@ -6,8 +6,14 @@
 
 📫 You can reach me at medhanshsankaran@gmail.com. Send me an email and I'll get back to you as soon as I can!
 
+Here are some of the projects I've completed over the past few years!
+
 ## 2025
 ### [Stock Portfolio Optimization](https://github.com/medhanshsankaran/Stock-Portfolio-Optimization)
+
+## 2024
+
+## 2023
 
 
 <!--
